@@ -2,4 +2,4 @@
 <p></p>
 <p></p>
 
-<h3 align="center">Brings back the Old SCP-106 Attack (One Shot Teleport) from before 12.X</h3>
+<h3 align="center">Brings back the Old SCP-106 Attack (One Shot Teleport) prior to 12.X</h3>
